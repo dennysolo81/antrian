@@ -1,0 +1,5 @@
+keperluan			Keterangan
+
+1 Administratsi KK/KTP		Panggil
+2 Perekaman KTP			Proses
+3 Dokumen lainnya		Selesai
